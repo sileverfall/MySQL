@@ -1,2 +1,2 @@
 # MySQL
-There are some basic exercises with mysql.
+There are some basic exercises by MySQL in III.
